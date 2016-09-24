@@ -1,1 +1,1 @@
-# tennis-at-harvard
+# codehbs React / Redux code starter
