@@ -22,6 +22,8 @@ Make a chat app (w/ Socket.io): http://danialk.github.io/blog/2013/06/16/reactjs
 
 ## Additional resources
 
+Link to presentation slides: http://www.slideshare.net/secret/3f91gi5OnVLUS1
+
 Code for app from presentation (www.crowded.cafe): https://github.com/crowdedProject/Crowded
 
 Material design (e.g., make things look like a Google product): https://getmdl.io/
