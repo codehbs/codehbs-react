@@ -23,6 +23,9 @@ Make a chat app (w/ Socket.io): http://danialk.github.io/blog/2013/06/16/reactjs
 ## Additional resources
 
 Material design (e.g., make things look like a Google product): https://getmdl.io/
+
 Stephen Grider Udemy tutorials (best out there for React/Redux): https://www.udemy.com/react-redux/
+
 Getting up to speed on Webpack (build tool): https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.n8u7qt879
+
 Deploying on Heroku (aka getting it to run on a live site, not just locally): http://ditrospecta.com/javascript/react/es6/webpack/heroku/2015/08/08/deploying-react-webpack-heroku.html
