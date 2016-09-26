@@ -10,4 +10,19 @@ Once you've got node installed, you'll need to [fork the codehbs-react repositor
 
 Open your brower to a new screen and navigate to localhost:8080. This is where the server is running locally and you should see "hey there codeHBS".
 
-## Now let's add some functionality!
+## Now add some functionality! (links to resources)
+
+Search Youtube & videos: http://hackingbeauty.com/create-a-reactjs-component-part1/
+
+Build a weather app: http://joanmira.com/tutorial-build-a-weather-app-with-react/
+
+Create a simple to-do list: https://pankajparashar.com/posts/todo-app-react-js/
+
+Make a chat app (w/ Socket.io): http://danialk.github.io/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/
+
+## Additional resources
+
+Material design (e.g., make things look like a Google product): https://getmdl.io/
+Stephen Grider Udemy tutorials (best out there for React/Redux): https://www.udemy.com/react-redux/
+Getting up to speed on Webpack (build tool): https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.n8u7qt879
+Deploying on Heroku (aka getting it to run on a live site, not just locally): http://ditrospecta.com/javascript/react/es6/webpack/heroku/2015/08/08/deploying-react-webpack-heroku.html
