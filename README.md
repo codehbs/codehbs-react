@@ -26,6 +26,8 @@ Link to presentation slides: http://www.slideshare.net/secret/3f91gi5OnVLUS1
 
 Code for app from presentation (www.crowded.cafe): https://github.com/crowdedProject/Crowded
 
+MVC frameworks and React: http://www.code-experience.com/react-js-vs-traditional-mvc-backbone-ember-angular/
+
 Material design (e.g., make things look like a Google product): https://getmdl.io/
 
 Stephen Grider Udemy tutorials (best out there for React/Redux): https://www.udemy.com/react-redux/
