@@ -22,6 +22,8 @@ Make a chat app (w/ Socket.io): http://danialk.github.io/blog/2013/06/16/reactjs
 
 ## Additional resources
 
+Code for app from presentation (www.crowded.cafe): https://github.com/crowdedProject/Crowded
+
 Material design (e.g., make things look like a Google product): https://getmdl.io/
 
 Stephen Grider Udemy tutorials (best out there for React/Redux): https://www.udemy.com/react-redux/
