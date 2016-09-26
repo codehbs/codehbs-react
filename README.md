@@ -28,6 +28,8 @@ Code for app from presentation (www.crowded.cafe): https://github.com/crowdedPro
 
 MVC frameworks and React: http://www.code-experience.com/react-js-vs-traditional-mvc-backbone-ember-angular/
 
+9 things React users should know: https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+
 Material design (e.g., make things look like a Google product): https://getmdl.io/
 
 Stephen Grider Udemy tutorials (best out there for React/Redux): https://www.udemy.com/react-redux/
