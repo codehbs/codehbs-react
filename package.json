@@ -1,5 +1,5 @@
 {
-  "name": "tennis-at-harvard",
+  "name": "codehbs-react",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abe732/tennis-at-harvard.git"
+    "url": "git+https://github.com/codehbs/codehbs-react.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abe732/tennis-at-harvard/issues"
+    "url": "https://github.com/codehbs/codehbs-react.git"
   },
-  "homepage": "https://github.com/abe732/tennis-at-harvard#readme",
+  "homepage": "https://github.com/codehbs/codehbs-react.git",
   "dependencies": {
     "babel-preset-stage-1": "^6.13.0",
     "lodash": "^4.15.0",
